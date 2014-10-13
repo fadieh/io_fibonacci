@@ -1,0 +1,6 @@
+assertEqual("The zeroth Fibonacci number is 0", fibonacci(0), 0)
+assertEqual("The first Fibonacci number is 1", fibonacci(1), 1)
+assertEqual("The second Fibonacci number is 1", fibonacci(2), 1)
+assertEqual("The third Fibonacci number is 2", fibonacci(3), 2)
+assertEqual("The fifth Fibonacci number is 5", fibonacci(5), 5)
+assertEqual("The fifth Fibonacci number is 7", fibonacci(5), 7)
